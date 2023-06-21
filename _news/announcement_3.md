@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am included in the Stanford University list of <b>TOP 2% of most cited researchers in AI</b>
+I am included in the Stanford University list of <b>TOP 2% of most cited researchers in AI field</b>

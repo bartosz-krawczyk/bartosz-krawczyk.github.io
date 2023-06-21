@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-05-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I was included in the <b>World's Best Computer Science Scientists Ranking</b> by <a href="https://research.com/">Research.com</a>!

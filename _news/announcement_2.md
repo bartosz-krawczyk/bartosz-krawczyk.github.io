@@ -11,7 +11,9 @@ I have multiple fully funded PhD position in the exciting field of Machine Learn
 Position Details:
 
 <b>Discipline:</b> Machine Learning and Computer Vision
+
 <b>Funding:</b> Fully funded for the duration of the program
+
 <b>About the Program:</b> The successful candidate will join a vibrant research community at CIS@RIT. The PhD candidate will have access to state-of-the-art resources, facilities, and datasets to conduct innovative research and develop novel algorithms and models. This is an exceptional opportunity to contribute to the academic community and collaborate with leading industry partners.
 
 <b>Responsibilities and Opportunities:</b>

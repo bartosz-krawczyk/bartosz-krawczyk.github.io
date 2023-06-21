@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was included in the <b>World's Best Computer Science Scientists Ranking</b> by <a href="https://research.com/">Research.com</a>!
+I am included in the <b>World's Best Computer Science Scientists Ranking</b> by <a href="https://research.com/">Research.com</a>!

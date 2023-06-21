@@ -8,7 +8,7 @@ related_posts: false
 
 I have multiple fully funded PhD position in the exciting field of Machine Learning and Computer Vision at Center for Imaging Science, Rochester Institute of Technology. This prestigious opportunity offers aspiring scholars the chance to delve into cutting-edge research and make significant contributions to the advancement of these rapidly evolving fields.
 
-Position Details:
+<b>Position Details:</b>
 
 <b>Discipline:</b> Machine Learning and Computer Vision
 

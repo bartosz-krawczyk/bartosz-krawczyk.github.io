@@ -25,10 +25,10 @@ BigData, and IJCNN. He was a recipient of prestigious awards for his scientific 
 
 <b>Research interests:</b>
 <ul>
-    <li><b>Machine learning:</b> class imbalance, ensemble learning, robust algorithms, big data</li>
-    <li><b>Data streams:</b> concept drift, adaptive learning, active learning</li>
-    <li><b>Deep learning:</b> continual & lifelong learning, adversarial learning, generative models, XAI</li>
-    <li><b>Computer vision:</b> representation learning, video & tensor classification </li>
+    <li><b>Machine Learning:</b> class imbalance, ensemble learning, robust algorithms, big data</li>
+    <li><b>Data Streams:</b> concept drift, adaptive learning, active learning</li>
+    <li><b>Deep Learning:</b> continual & lifelong learning, adversarial learning, generative models, XAI</li>
+    <li><b>Computer Vision:</b> representation learning, video & tensor classification </li>
    <li><b>Imaging Science:</b> remote sensing, medical image analysis </li>
 </ul>
 For more details on my research visit my <a href="https://scholar.google.com/citations?user=0GrFcZsAAAAJ">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Bartosz-Krawczyk">ResearchGate</a>, and <a href="https://dblp.org/pid/26/11077.html">DBLP</a> pages.
